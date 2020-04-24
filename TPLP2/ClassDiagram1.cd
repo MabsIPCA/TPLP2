@@ -8,56 +8,63 @@
     </TypeIdentifier>
   </Class>
   <Class Name="TPLP2.Classes.Colaborador">
-    <Position X="3.5" Y="4" Width="1.5" />
+    <Position X="4" Y="4" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAAAAAAAAQAAQAAgAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <HashCode>AAAAAAAAAQAAQAAgAAQAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
       <FileName>Classes\Colaborador.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TPLP2.Classes.Empresa">
-    <Position X="6.5" Y="1" Width="1.5" />
+    <Position X="7" Y="0.75" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAAAA=</HashCode>
       <FileName>Classes\Empresa.cs</FileName>
     </TypeIdentifier>
   </Class>
-  <Class Name="TPLP2.Classes.Encomenda">
-    <Position X="9.5" Y="1" Width="1.5" />
+  <Class Name="TPLP2.Classes.Produto_Encomenda">
+    <Position X="12" Y="1" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>QAAIAAAACAAAQAAAAAAAIgAAAAAAAAAAAACABAAAAgA=</HashCode>
+      <HashCode>AAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAAQAAAAAAA=</HashCode>
+      <FileName>Classes\Encomenda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPLP2.Classes.Encomenda">
+    <Position X="10" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAABACAAAQAAAAAAAIgAAAAAAAAAAAACABAAAAgA=</HashCode>
       <FileName>Classes\Encomenda.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TPLP2.Classes.Fornecedor">
-    <Position X="5.5" Y="4" Width="1.5" />
+    <Position X="8" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
       <FileName>Classes\Fornecedor.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TPLP2.Classes.Pessoa">
-    <Position X="2.5" Y="1" Width="1.5" />
+    <Position X="2.75" Y="0.75" Width="1.5" />
     <TypeIdentifier>
-      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEEAAAA=</HashCode>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAIAgAAAAAAAAEEAAAA=</HashCode>
       <FileName>Classes\Pessoa.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TPLP2.Classes.Produto">
-    <Position X="11.5" Y="1" Width="1.5" />
+    <Position X="12" Y="3" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAgAAAIAAAAABAAAAAACAAEAAEAAAA=</HashCode>
       <FileName>Classes\Produto.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TPLP2.Classes.Transportadora">
-    <Position X="7.5" Y="4" Width="1.5" />
+    <Position X="6" Y="4" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAgA=</HashCode>
       <FileName>Classes\Transportadora.cs</FileName>
     </TypeIdentifier>
   </Class>
   <Class Name="TPLP2.Program">
-    <Position X="11.5" Y="4.5" Width="1.5" />
+    <Position X="10" Y="5" Width="1.5" />
     <TypeIdentifier>
       <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
       <FileName>Program.cs</FileName>
