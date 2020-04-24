@@ -1,0 +1,7 @@
+C:\Users\miabs\source\repos\TPLP2\TPLP2\bin\Debug\TPLP2.exe.config
+C:\Users\miabs\source\repos\TPLP2\TPLP2\bin\Debug\TPLP2.exe
+C:\Users\miabs\source\repos\TPLP2\TPLP2\bin\Debug\TPLP2.pdb
+C:\Users\miabs\source\repos\TPLP2\TPLP2\obj\Debug\TPLP2.csprojAssemblyReference.cache
+C:\Users\miabs\source\repos\TPLP2\TPLP2\obj\Debug\TPLP2.csproj.CoreCompileInputs.cache
+C:\Users\miabs\source\repos\TPLP2\TPLP2\obj\Debug\TPLP2.exe
+C:\Users\miabs\source\repos\TPLP2\TPLP2\obj\Debug\TPLP2.pdb

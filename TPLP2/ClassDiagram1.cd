@@ -1,0 +1,67 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="TPLP2.Classes.Cliente">
+    <Position X="1.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>ABAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAI=</HashCode>
+      <FileName>Classes\Cliente.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPLP2.Classes.Colaborador">
+    <Position X="3.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAQAAQAAgAAAAAAAAAAAAAAAAAAAAAAAgAAA=</HashCode>
+      <FileName>Classes\Colaborador.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPLP2.Classes.Empresa">
+    <Position X="6.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAEEAAAA=</HashCode>
+      <FileName>Classes\Empresa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPLP2.Classes.Encomenda">
+    <Position X="9.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAAIAAAACAAAQAAAAAAAIgAAAAAAAAAAAACABAAAAgA=</HashCode>
+      <FileName>Classes\Encomenda.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPLP2.Classes.Fornecedor">
+    <Position X="5.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAAAAAAAAAAAAAACAAAAAAAAAA=</HashCode>
+      <FileName>Classes\Fornecedor.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPLP2.Classes.Pessoa">
+    <Position X="2.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAEEAAAA=</HashCode>
+      <FileName>Classes\Pessoa.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPLP2.Classes.Produto">
+    <Position X="11.5" Y="1" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAgAAAIAAAAABAAAAAACAAEAAEAAAA=</HashCode>
+      <FileName>Classes\Produto.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPLP2.Classes.Transportadora">
+    <Position X="7.5" Y="4" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAACAAAAAAAAAAAAAAAAAgA=</HashCode>
+      <FileName>Classes\Transportadora.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="TPLP2.Program">
+    <Position X="11.5" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
